@@ -5,7 +5,8 @@
 **Kelas : TI.21.A3** <br/>
 
 ## Output 
-<img src="lab11_ci\ci4\ci4\img\pcture.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+![2023-05-23 (1)](https://github.com/ArjunSyah/Lab7Web/assets/92367765/da082538-a62b-447f-a4e2-b03083f498c6)
+
 
 
 # CodeIgniter 4 Framework
